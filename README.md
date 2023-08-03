@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Computer Science Engineering student<br>⚡ I’m interested in Data Analysis and Machine Learning<br>
+🔭 I’m a Computer Science Engineering student<br>⚡ I’m interested in Data Analysis and Machine Learning<br>🏆 I am the Creative Head at VIT LEO Club<br>
 
 
 ## 🌐 Socials:
