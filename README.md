@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/Siri-Kulakarni/Siri-Kulakarni/assets/106859656/6eaa768c-c06f-4111-ad0d-397baa2aab47)
+
 # 💫 About Me:
 🔭 I’m a Computer Science Engineering student<br>⚡ I’m interested in Data Analysis and Machine Learning<br>🏆 I am the Creative Head at VIT LEO Club<br>
 
