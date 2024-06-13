@@ -22,6 +22,8 @@
 ## Badges:
 <img src = "https://github.com/Siri-Kulakarni/Siri-Kulakarni/assets/106859656/818c7dcb-08b4-4196-b6d0-f8a5a55149f0" width="150" height="150">
 <img src = "https://github.com/Siri-Kulakarni/Siri-Kulakarni/assets/106859656/6e0ca061-8639-49da-ac1e-727fe6ddde0b" width="150" height="150">
+<img src = "https://github.com/Siri-Kulakarni/Siri-Kulakarni/assets/106859656/d62c795a-ecfa-4334-bfb1-d1e4798ce90e" width="160" height="160">
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Siri-Kulakarni&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
